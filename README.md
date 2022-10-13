@@ -1,5 +1,5 @@
 # GameProgLab1IK-93
-Student: Pavlo Ponochovnyi 
+Student: Pavlo Ponochovnyi <br>
 Group: IK-93
 
 My first 2D-game.
